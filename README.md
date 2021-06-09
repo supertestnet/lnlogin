@@ -7,6 +7,6 @@ Install and activate the plugin through the plugins page in the backend of your 
 # Usage
 Add the following shortcode to any page on your site.
 
-`generatelnurl`
+`[generatelnurl]`
 
 When a user visits the page, the shortcode will display as a clickable lightning login qr code. Users who scan the qr code with a bitcoin wallet that supports the lnurl-auth protocol will automatically get a new account with a random username and secure password or, if they’ve signed in with that bitcoin wallet before, they will be signed into their existing user (without ever needing to remember — or even see — their password!). After logging in, the user will be redirected to a page that you specify in settings.
