@@ -1,4 +1,4 @@
-# lnlogin
+# Lightning Login
 Let people log into your wordpress website using their bitcoin wallet. Integrate the Lightning Login plugin to generate a secure login qr code that anyone can use to create an account on your website or, if they have already made one, log in.
 
 # Installation
